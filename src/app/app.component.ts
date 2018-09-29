@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl, Validators } from '@angular/forms';
+=======
+import { Component } from '@angular/core';
+import { FormGroup } from '@angular/forms';
+>>>>>>> 3a5458e540896b79c850658aad40f83b6a728deb
 
 @Component({
   selector: 'app-root',
